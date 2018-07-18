@@ -1,0 +1,202 @@
+[
+{
+  "Module": "Computer System Architecture",
+  "Points": 2.5,
+  "Classes": 8,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Database Systems",
+  "Points": 2.0,
+  "Classes": 4,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "22/07/2018",
+  "EndDate": "20/12/2018",
+  "Weekend": 0
+},
+{
+  "Module": "Functional Programming",
+  "Points": 3,
+  "Classes": 10,
+  "Labs": 6,
+  "Instructor": "Greg Graffin",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Artificial Intelligence",
+  "Points": 2.5,
+  "Classes": 11,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Mathamatical Foundation",
+  "Points": 1.5,
+  "Classes": 12,
+  "Labs": 1,
+  "Instructor": "Mark Twain",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Mobile Application Development",
+  "Points": 2.5,
+  "Classes": 6,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Advanced Software Engineering",
+  "Points": 2.5,
+  "Classes": 9,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Computer Networks",
+  "Points": 2.5,
+  "Classes": 4,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Compiler Design",
+  "Points": 2.5,
+  "Classes": 5,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Analysis & Design of Algorithms",
+  "Points": 2.5,
+  "Classes": 6,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Computer Programming",
+  "Points": 2.5,
+  "Classes": 7,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Program design",
+  "Points": 2.0,
+  "Classes": 4,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "22/07/2018",
+  "EndDate": "20/12/2018",
+  "Weekend": 0
+},
+{
+  "Module": "Computer Systems analysis",
+  "Points": 3,
+  "Classes": 3,
+  "Labs": 6,
+  "Instructor": "Greg Graffin",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Fundamentals of Hardware",
+  "Points": 2.5,
+  "Classes": 10,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Networking",
+  "Points": 1.5,
+  "Classes": 8,
+  "Labs": 1,
+  "Instructor": "Mark Twain",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Computer Architecture",
+  "Points": 2.5,
+  "Classes": 7,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Mathematics for Computing",
+  "Points": 2.5,
+  "Classes": 7,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Operating Systems",
+  "Points": 2.5,
+  "Classes": 6,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Discrete Mathematics",
+  "Points": 2.5,
+  "Classes": 5,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+},
+{
+  "Module": "Database Designing",
+  "Points": 2.5,
+  "Classes": 12,
+  "Labs": 3,
+  "Instructor": "Ralph Nader",
+  "Start Date": "20/07/2018",
+  "EndDate": "30/12/2018",
+  "Weekend": 1
+}
+]

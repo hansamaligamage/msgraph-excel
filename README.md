@@ -4,6 +4,6 @@ Microsoft Graph exposes APIs for Azure Active Directory, Office 365 services lik
 
 We can access to all these Office 365 products through a single REST endpoint and manage millions of data in Microsoft Cloud
 
-This sample application is going to read a JSON file and writes it into an excel table using Graph API, and it generates a chart on top of that excel file
+This sample application is going to read a JSON file and writes it into an excel table using Graph API, and it generates a chart on top of that excel file. You can find the json file from the root of the project directory
 
 

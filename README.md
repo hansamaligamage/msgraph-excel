@@ -6,6 +6,8 @@ We can access to all these Office 365 products through a single REST endpoint an
 
 This sample application is built using a Azure Function App Http trigger template, It's going to read a JSON file and writes it into an excel table using Graph API, and it generates a chart on top of that excel file. You can find the json file from the root of the project directory
 
+If you are interested to check MSGraph Excel API in more detail, check this article, <a href="https://social.technet.microsoft.com/wiki/contents/articles/51788.net-core-process-a-excel-file-with-microsoft-graph-api-azure-function.aspx">.NET Core: Process  a Excel file with Microsoft Graph API &amp; Azure Function</a>
+
 You can add a row to an existing excel file in OneDrive using GraphAPI like this 
  ```
  public async Task<bool> ModifyTable(string fileId, string sessionId, string worksheet, string table) 

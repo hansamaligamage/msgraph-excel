@@ -10,6 +10,9 @@ If you are interested to check MSGraph Excel API in more detail, check this arti
 
 You can add a row to an existing excel file in OneDrive using GraphAPI like this 
  ```
+  string accessToken = System.Environment.GetEnvironmentVariable("AccessToken", EnvironmentVariableTarget.Process);
+  string baseurl = "https://graph.microsoft.com/v1.0/";
+        
  public async Task<bool> ModifyTable(string fileId, string sessionId, string worksheet, string table) 
         { 
             var success = false; 
